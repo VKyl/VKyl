@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Viktor Kyliukh
+# 👋 I'm Viktor Kyliukh
 
-I'm a **React Frontend Developer** at [Codefinity](https://codefinity.com), an applied mathematics student in **Kyiv-Mohyla Academy**.
+I'm a **React Frontend Developer** and an applied mathematics student in **Kyiv-Mohyla Academy**.
 
 ## 🛠️ Tech Stack
 
