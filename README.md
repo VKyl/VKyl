@@ -34,7 +34,7 @@ I'm a **React Frontend Developer** and an applied mathematics student in **Kyiv-
 ## 🚀 About Me
 
 - 🎓 2nd Grade of Applied Mathematics Degree  
-- 🥁 Hobbyist drummer & indie game developer  
+- 🥁 Hobbies drummer & indie game developer  
 
 ## 📊 GitHub Stats
 
