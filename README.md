@@ -36,8 +36,3 @@ I'm a **React Frontend Developer** and an applied mathematics student in **Kyiv-
 - 🎓 3rd Grade of Applied Mathematics Degree  
 - 🥁 Hobbies drummer & indie game developer  
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkyl&layout=compact&theme=default)
-
----
