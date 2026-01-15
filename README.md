@@ -31,6 +31,8 @@ I'm a **React Frontend Developer** and an applied mathematics student in **Kyiv-
 ![Responsive Design](https://img.shields.io/badge/Responsive--Design-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-FF4088?style=flat-square&logo=figma&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VKyl
+
 ## 🚀 About Me
 
 - 🎓 3rd Grade of Applied Mathematics Degree  
