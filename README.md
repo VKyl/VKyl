@@ -1,6 +1,6 @@
 # 👋 I'm Viktor Kyliukh
 
-I'm a **React Frontend Developer** and an applied mathematics student in **Kyiv-Mohyla Academy**.
+I'm a **Full-stack Developer** and an applied mathematics student in **Kyiv-Mohyla Academy**.
 
 ## 🛠️ Tech Stack
 
@@ -33,6 +33,6 @@ I'm a **React Frontend Developer** and an applied mathematics student in **Kyiv-
 
 ## 🚀 About Me
 
-- 🎓 3rd Grade of Applied Mathematics Degree  
+- 🎓 4rd Grade of Applied Mathematics Degree  
 - 🥁 Hobbies drummer & indie game developer  
 
