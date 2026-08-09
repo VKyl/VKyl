@@ -1,6 +1,6 @@
 # 👋 I'm Viktor Kyliukh
 
-I'm a **Full-stack Developer** and an applied mathematics student in **Kyiv-Mohyla Academy**.
+I'm a **Full-stack Developer** and an applied math student in **Kyiv-Mohyla Academy**.
 You can view more projects on `Shitcode-Swamp` organization.
 
 ## 🛠️ Tech Stack
